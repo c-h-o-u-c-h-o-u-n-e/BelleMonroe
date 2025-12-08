@@ -1,3 +1,4 @@
+"use client";
 import Layout from "@/components/layout/Layout"
 import Section1 from '@/components/sections/single/Section1'
 import blogData from '@/data/blog.json'

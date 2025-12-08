@@ -1,3 +1,4 @@
+"use client";
 import Layout from "@/components/layout/Layout"
 import Section1 from '@/components/sections/home/Section1'
 import Section2 from '@/components/sections/home/Section2'

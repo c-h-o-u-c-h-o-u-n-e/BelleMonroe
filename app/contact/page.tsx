@@ -1,6 +1,7 @@
+"use client";
 import Layout from "@/components/layout/Layout"
 import Section1 from '@/components/sections/contact/Section1'
-export default function Contact() {	
+export default function Contact() {
 
 	return (
     <>
