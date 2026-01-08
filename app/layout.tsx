@@ -1,10 +1,10 @@
 import { Cabin, B612_Mono } from 'next/font/google'
-import "/public/assets/css/bootstrap.css"
-import "/public/assets/css/widgets.css"
-import "/public/assets/css/color-default.css"
-import "/public/assets/css/fontello.css"
-import "/public/assets/css/style.css"
-import "/public/assets/css/responsive.css"
+import "../public/assets/css/bootstrap.css"
+import "../public/assets/css/widgets.css"
+import "../public/assets/css/color-default.css"
+import "../public/assets/css/fontello.css"
+import "../public/assets/css/style.css"
+import "../public/assets/css/responsive.css"
 import "./globals.css"
 import type { Metadata } from "next"
 
